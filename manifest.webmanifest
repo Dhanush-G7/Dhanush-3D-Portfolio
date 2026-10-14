@@ -1,0 +1,23 @@
+{
+ "name": "Dhanush Gubala - 3D Portfolio",
+ "short_name": "Dhanush G",
+ "description": "Interactive 3D portfolio of Dhanush Gubala, Front-End Web Developer.",
+ "start_url": ".",
+ "scope": ".",
+ "display": "standalone",
+ "background_color": "#040B0B",
+ "theme_color": "#040B0B",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

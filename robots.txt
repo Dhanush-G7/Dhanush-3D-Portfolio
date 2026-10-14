@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhanush-g7.github.io/Dhanush-Portfolio/sitemap.xml
